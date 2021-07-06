@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RubyGSY
+- 👀 I’m interested in Ruby and Dragon Ruby
+- 🌱 I’m currently learning both
+- 💞️ I’m learing from @Eric-Guo
+- 📫 No email available yet
